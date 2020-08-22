@@ -2,7 +2,6 @@
 *.pyc
 *.ini
 *.log
-pro_config.py
 tags
 .DS_Store
 Caddyfile
@@ -17,7 +16,6 @@ dist/
 *.egg-info/
 mdui.css
 mdui.js
-owllook.env
 test_extractor.py
 CaddyfileNode01
 CaddyfileNode02
